@@ -10,7 +10,7 @@ This portfolio serves as a comprehensive record of digital literacy, professiona
 - It contains creative design (Task 1)
 - Professional identity building (Task 2)
 - Technical practice (Task 3)
-- Professional etiquette (Task 4)
+- Professional email etiquette (Task 4)
 - Critical analysis of cyber-safety (Task 5)
 
 --- Module Summaries ---

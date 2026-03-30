@@ -8,7 +8,7 @@ Stay Safe Online Checklist -
 - Secure your UPI Identity: Never enter your UPI PIN to receive money and in-front of anyone
 - Verify UPI Beneficiaries: Always double-check the name that appears in your payment app before paying
 
-How to Report a Cybercrime -
+Cybercrime Report Guide -
 
 If you or a peer fall victim to a digital scam, speed is critical,
 Immediate Action: Call the National Cyber Crime Helpline at 1930 instantly to freeze fraudulent transactions or report the website.
